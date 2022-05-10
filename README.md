@@ -1,2 +1,2 @@
-# Structurs-in-c
+# Structure-in-c
 All about structure 
